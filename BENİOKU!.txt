@@ -1,0 +1,15 @@
+Merhaba RandomName'e hoşgeldiniz... Lafı uzatmak istemiyorum sadece bir kaç şeyden bahsedip uyarı yapıcam.
+
+-----------------UYARI-------------------------------------------------------------------------------
+RandomName.exe'nin bulunduğu klasörün içindeki vtIsimler.mdb'yi başka konuma aktarmayın aynı klasörde
+kalsın yoksa uygulama hata verir.
+-----------------------------------------------------------------------------------------------------
+
+----------------DUYURU-------------------------------------------------------------------------------
+Aslında bu uygulamayı geliştiren benim yani Ömer Ege KALEMCİ.Fakat uygulamanın kodlarını aldığım 
+Umut DÖKEL'e çok teşekkür ederim. Adamın dibisin <3
+-----------------------------------------------------------------------------------------------------
+
+Web sitemizi ziyaret ederek uygulamanın ayrıntılarına bakabilirsin:
+
+Çok fazla uzatmayalım uygulamayı kullanmaya başlayabilirsiniz. Umarım keyif alırsın!
